@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **AWS+DevOps**
 
-- 👨‍💻 All of my projects are available at [https://resume.chiragjhamnani.cloud/](https://resume.chiragjhamnani.cloud/)
+- 👨‍💻 All of my projects are available at [https://chiragdevops.vercel.app/](https://chiragdevops.vercel.app/)
 
-- 📝 I regularly write articles on [https://blog.chiragjhamnani.cloud/](https://blog.chiragjhamnani.cloud/)
+- 📝 I regularly write articles on [https://chiragdevops.vercel.app/blog](https://chiragdevops.vercel.app/blog/)
 
 - 💬 Ask me about **Networking,AWS,CI/CD**
 
