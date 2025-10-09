@@ -2,7 +2,7 @@
 <h3 align="center">A Cloud Support Engineer From INDIA !</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/young-man-avatar-character-vector-illustration-design_24877-18517.jpg?size=626&ext=jpg&ga=GA1.1.2077695033.1705415665&semt=ais">
 
-- 🔭 I’m currently working on [AWS-Cloud Resume Challenge](https://cloudresumechallenge.dev/)
+- 🔭 I’m currently working on as Senior Devops & Cloud Engineer - [https://linkedin.com/in/chirag-jhamnani]
 
 - 🌱 I’m currently learning **AWS+DevOps**
 
