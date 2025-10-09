@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **chiragj.me@gmail.com**
 
-- 📄 Know about my experiences [https://resume.chiragjhamnani.cloud/](https://resume.chiragjhamnani.cloud/)
+- 📄 Know about my experiences [https://chiragdevops.vercel.app/blog/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
